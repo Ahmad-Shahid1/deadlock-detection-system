@@ -1,7 +1,8 @@
-Deadlock Detection System
+Deadlock Detection System:
+
 A Java program that reads process-resource relationships from input.txt, checks for circular waits, and prints the search steps and detection result.
 
-Features
+Features:
 
 Reads process-resource relationships from the input file.
 
@@ -9,7 +10,7 @@ Checks for circular waits.
 
 Prints the search steps and detection result as text, not as a table or a drawn graph.
 
-Running the Project
+Running the Project:
 
 You'll need a Java Development Kit (JDK) installed.
 
